@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "301684349472",
+    "project_id": "healthapp-31ef7",
+    "storage_bucket": "healthapp-31ef7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301684349472:android:cb406a6cab929d43383a45",
+        "android_client_info": {
+          "package_name": "com.healthhackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301684349472-piihijfe64hkc6ktm84bda697k8hnnqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthhackathon",
+            "certificate_hash": "96d5212c38b1daaa10d380dfda87552454d97cb6"
+          }
+        },
+        {
+          "client_id": "301684349472-ujp03vf0k82jal3klkr1trk47mr4cnoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgWKgZc_C-w64puaO9FW5e9Rfe_vD8yBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301684349472-ujp03vf0k82jal3klkr1trk47mr4cnoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
